@@ -1,4 +1,3 @@
-## CS 465 Assignment 1
 # The Paint Like Application 
 
 The aim of this project is to learn webgl and its implementations.
